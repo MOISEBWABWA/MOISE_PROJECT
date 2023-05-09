@@ -7,5 +7,6 @@ dic_ville={"hk":["lubumbashi","likasi","kasumbalesa"]}
 print(dic_ville.values()) #la valeur precise de villes 
 print(dic_ville.keys()) #la clef precise de la province du haut katanga
 #le dictionnaire de la republique democratique du congo
+#slicing
 dic_province={"rdc":["haut_katanga","haut lomami","haut huele","lualaba","tanganyika","kinshasa","bandundu","sud_kivu","nord_kivu","kisangani","bas-congo","kasai"]}# les differentes provinces de la rdc
 print(dic_province.values())

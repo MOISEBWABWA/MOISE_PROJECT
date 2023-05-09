@@ -1,5 +1,5 @@
 # representation d un graphe de fonction
-x= linspace (-5*pi,5*pi, 200)
+x= linspace (-5*pi,5*pi, 200) 
 y=sin (x)/x
 plot (x,y,"g",label='$\\frac{\\sin x} {x}$') # ici nous allons echapper au carractere legende
 out:24
